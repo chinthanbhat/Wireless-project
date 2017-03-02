@@ -1,1 +1,1 @@
-The Android part of the project along with its PHP(Not all) files.
+The Android java files of the project along with its PHP(Not all) files.
